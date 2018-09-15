@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="how_to_use" type="id">How to use</item>
+    <item name="delete_all_contacts" type="id">Delete all contacts</item>
+    <item name="action_notes" type="id">Action notes</item>
+    <item name="menu_filter" type="id">Menu Filter</item>
+    <item name="nav_camera" type="id">Camera</item>
+    <item name="nav_gallery" type="id">Gallery</item>
+    <item name="nav_slideshow" type="id">Slide show</item>
+    <item name="nav_manage" type="id">Manage</item>
+    <item name="nav_share" type="id">Share</item>
+    <item name="nav_send" type="id">Send</item>
+</resources>
